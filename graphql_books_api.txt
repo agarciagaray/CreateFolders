@@ -1,0 +1,12 @@
+graphql_books_api/
+├── app/
+│   ├── main.py
+│   ├── db.py
+│   ├── models.py
+│   ├── schema.py
+│   ├── crud/
+│   │   └── book_crud.py
+│   ├── graphql/
+│   │   └── resolvers.py
+│   └── services/
+│       └── book_service.py
