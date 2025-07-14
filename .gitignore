@@ -1,0 +1,105 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Archivos de testing y coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Documentación
+docs/_build/
+docs/generated/
+
+# Logs y bases de datos
+*.log
+*.sqlite
+*.db
+
+# Archivos temporales
+tmp/
+temp/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Archivos de ambiente y configuración local
+.env
+.env.local
+.env.*.local
+*.ini
+config.local.py
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Análisis estático de código
+.pylint.d/
+.pytype/
+
+# Archivos de profiling
+*.prof
+*.pstat
+
+# Archivos de PyInstaller
+*.manifest
+*.spec
+
+# Poetry
+poetry.lock
+
+# pipenv
+Pipfile.lock
+
+# Archivos de credenciales y secretos
+*.pem
+*.key
+*.cert
+secrets.*
