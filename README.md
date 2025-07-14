@@ -91,9 +91,3 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE.md](LICENSE.md) para más
 - A la comunidad de Python por sus herramientas y librerías.
 - A `customtkinter` por la interfaz moderna.
 ```
-
-### Campos a Personalizar 🔧
-- **Tu Nombre**: Tu nombre completo o seudónimo.
-- **TuUsuarioGitHub**: Tu nombre de usuario en GitHub.
-- **Enlaces**: Asegúrate de actualizar los enlaces a tu repositorio real.
-- **Detalles específicos**: Agrega información adicional si es necesario (ej.: versiones de Python compatibles, funcionalidades únicas).
